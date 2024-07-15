@@ -81,9 +81,6 @@ The backtesting script will generate performance metrics including annual return
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have suggestions for improvements or find any bugs.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
